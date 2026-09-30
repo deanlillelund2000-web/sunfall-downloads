@@ -4,6 +4,12 @@ Et fantasy-eventyr med en vedvarende verden og co-op for op til fire spillere.
 
 **[Download Sunfall til Windows](https://github.com/deanlillelund2000-web/sunfall-downloads/releases/latest/download/Sunfall-Setup.exe)**
 
+## Norton: gennemgang afventer svar
+
+Den 30. september 2026 registrerede Norton **IDP.Generic** i Launcher.ps1 under en isoleret udviklertest af opdateringen. Testkopien har samme indhold som scriptet i den offentlige udgave 2026.09.30.7. Rapporten og filen er indsendt til Norton, som har bekræftet modtagelsen. Der er endnu ingen teknisk afgørelse.
+
+Hvis dit sikkerhedsprogram blokerer Sunfall, skal du lade beskyttelsen være aktiv og afvente afklaringen. Det er endnu ikke fastslået, om advarslen er en fejldetektion. Vi opdaterer denne besked, når vurderingen foreligger.
+
 ## Installér én gang
 
 1. Hent **Sunfall-Setup.exe** og tryk **Install**.
